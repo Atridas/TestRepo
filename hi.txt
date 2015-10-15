@@ -3,5 +3,3 @@ hi
 branch
 
 hey
-
-let's close an issue
